@@ -1,0 +1,106 @@
+.navdis {
+    width: 300px !important;
+}
+
+.navtit {
+    margin-left: 40px;
+}
+
+.navgen{
+    background-color: rgb(10, 116, 148);
+}
+
+.navgena {
+    color: white !important;
+}
+
+.navgen ul li a{
+    color: white !important;
+}
+
+.hti {
+  margin-right: 40px !important;
+}
+
+.hti h1{
+    padding-top: 20px;
+    color: gray;
+}
+
+.htia{
+    display: flex;
+    max-width: 900px;
+}
+
+.htia p{
+    margin-left: 10px;
+    font-weight: 100;
+    font-size: 15px;
+    height: 245px;
+}
+
+.htib{
+    height: 175px;
+    width: 587px;
+    margin-left: 324px;
+}
+
+.htib p{
+    height: 21px;
+    margin: 0px;
+}
+
+.htib button{
+    width: 162px;
+}
+
+.valor{
+    color: rgb(10, 116, 148);
+    font-weight: 500;
+
+}
+
+.valora{
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+.valora input{
+    margin-left: 10px;
+    height: 27px;
+    width: 110px;
+}
+
+.htibu {
+    display: inline-flex;
+}
+
+.htibu button{
+    margin-left: 300px;
+    background-color: rgb(60, 122, 194);
+    color: white;
+    border: none;
+    font-size: 12px;
+    width: 131px;
+    height: 30px;
+}
+
+.htibu button:hover{
+    background-color: rgb(10, 116, 148);
+
+}
+
+.valorb{
+    color: rgb(10, 116, 148);
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.valorimg {
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+.valora input{
+    text-align: right;
+}
